@@ -72,8 +72,7 @@
 11. Проверил конфигурацию PHP в `/etc/apache2/conf-enabled/zabbix.conf`, указал часовой пояс `Europe/Moscow`.
 12. Перезапустил Apache: `sudo systemctl restart apache2`
 
-`При необходимости прикрепитe сюда скриншоты
-![Экран приветствия Zabbix 6.0](screenshots/zabbix-install-welcome.png)`
+![Экран приветствия Zabbix 6.0](screenshots/zabbix-install-welcome.png)
 
 ---
 
