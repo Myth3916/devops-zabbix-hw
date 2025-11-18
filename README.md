@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "Установка Zabbix Server с веб-интерфейсом" - Олег Шаров
+# Домашнее задание к занятию "Установка Zabbix Server с веб-интерфейсом" - Иван Петров
 
 ### Инструкция по выполнению домашнего задания
 
@@ -102,3 +102,7 @@
 5.  Проверена передача данных в разделе **Monitoring > Latest data** — данные поступают от обоих агентов.
 
 
+![Список хостов в Zabbix](screenshots/zabbix-config-hosts-two-agents.png)
+![Лог агента на сервере](screenshots/zabbix-agent-log.png)
+![Данные от zabbix-agent-vm](screenshots/zabbix-latest-data-agent-vm.png)
+![Данные от Zabbix-Server-Monitoring](screenshots/zabbix-latest-data-server-self.png)`
