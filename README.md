@@ -104,5 +104,5 @@
 
 ![Список хостов в Zabbix](screenshots/zabbix-config-hosts-two-agents.png)
 ![Лог агента на сервере](screenshots/zabbix-agent-log.png)
-![Данные от zabbix-agent-vm](screenshots/zabbix-latest-data-agent-vm.png)
-![Данные от Zabbix-Server-Monitoring](screenshots/zabbix-latest-data-server-self.png)`
+![Данные от zabbix-agent-vm](screenshots/zabbix-latest-data-agent-vm-1.png)
+![Данные от Zabbix-Server-Monitoring](screenshots/zabbix-latest-data-agent-vm.png)
